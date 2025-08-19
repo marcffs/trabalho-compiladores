@@ -1,0 +1,16 @@
+programa
+
+  numero a, b, w, x, y;
+
+  leia(a);
+  leia(b);
+  
+  w = a * (b + 7);
+  x = b / (11 * a)
+  y = 5 + a * 3 - b;
+  
+  escreva(w);
+  escreva(x);
+  escreva(y);
+
+fimprog;
